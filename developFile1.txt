@@ -1,9 +1,13 @@
 This is the first file in the develop branch.
+Making change in develop.
 Making change in feature.
 Making change in feature again.
+Making change in develop again.
 This is an added functionality.
 There has been some change in this file.
 This is the second file in the series.
 Second time addition is taking place.
 
 There has been some addition in this file.
+
+I am adding some changes in the develop branch.
