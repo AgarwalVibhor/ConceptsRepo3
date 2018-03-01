@@ -1,6 +1,7 @@
 This is the first file in the develop branch.
-
+This is an added functionality.
 There has been some change in this file.
 This is the second file in the series.
+Second time addition is taking place.
 
 There has been some addition in this file.
