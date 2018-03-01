@@ -1,4 +1,6 @@
 This is the first file in the develop branch.
+Making change in feature.
+Making change in feature again.
 This is an added functionality.
 There has been some change in this file.
 This is the second file in the series.
